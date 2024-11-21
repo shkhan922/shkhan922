@@ -6,12 +6,23 @@
 - 🌱 I’m currently learning system programming in Rust and Ethical Hacking.
 - 💬 Ask me about anything related to ReactJS, Nextjs, MERN, Python/Django.
 - ⚡ I have worked with DevOps using Docker and k8s clusters for sytem architecture and cloud native deployment and I have expereince in IoT using Python programming and using microcontroller such as Raspberry Pi and Arduino.
-- ✍️ I love writing: Find my articles on [medium](https://medium.com/@shkhan922)
 
 
 [![Shadab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkhan922&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhan922&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>📈 Visitors Count 👇 </h3>
+<div>
+    <a href="https://github.com/jasham" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=shkhan922&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jasham" />
+   </a> 
+</div>
+<br/>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhan922&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
