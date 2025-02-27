@@ -3,7 +3,7 @@
 ### Hi there 👋
 #### <iv>I'm Shadab Khan, a full stack software developer who enjoys learning new skills that can be used to develop functional, appealing, custom-made web & Mobile app products and services </div>  
 
-- 🌱 I’m currently learning system programming in Rust and Ethical Hacking.
+- 🌱 I’m currently learning system programming in go and Ethical Hacking.
 - 💬 Ask me about anything related to ReactJS, Nextjs, MERN, Python/Django.
 - ⚡ I have worked with DevOps using Docker and k8s clusters for sytem architecture and cloud native deployment and I have expereince in IoT using Python programming and using microcontroller such as Raspberry Pi and Arduino.
 
