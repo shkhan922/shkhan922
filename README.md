@@ -154,8 +154,8 @@ A results-driven software engineer with extensive expertise in building scalable
 
 I'm always open to discussing new projects, innovative ideas, and opportunities to contribute to meaningful solutions. Feel free to reach out!
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**Location:** [Your City, Country]
+**Email:** [shkhan922@gmail.com](mailto:your.email@example.com)  
+**Location:** [New Delhi, India]
 
 ---
 
