@@ -1,8 +1,26 @@
 # 👨‍💻 Shadab Khan
 
-### Senior Full Stack Developer & Cloud Architecture Specialist
+### Full Stack & AI-Enabled ERP Engineer | Cloud, Data & Edge Systems
 
-A results-driven software engineer with extensive expertise in building scalable web and mobile applications. Specialized in modern JavaScript frameworks, Python backend systems, and cloud-native deployments. Passionate about leveraging cutting-edge technologies to deliver robust, user-centric solutions that drive business growth.
+Full Stack Engineer with 12+ years of experience building and operating production software across government ERP, infrastructure monitoring, healthcare, finance, property technology, and embedded systems. I work across Next.js/TypeScript frontends, Django/Python services, PostgreSQL data platforms, cloud infrastructure, and remotely managed edge hardware.
+
+I currently work with **Link Infra Solutions Pvt. Ltd.**, where I contribute to the **BSEIDC AI-enabled ERP and infrastructure monitoring ecosystem** and the **BSMCL public portal, CMS, and ERP platform**.
+
+---
+
+## 🔭 Current Work
+
+### BSEIDC AI-Enabled ERP & Infrastructure Monitoring
+
+- Developing production workflows across tendering, project execution, measurements, finance, employee management, CMS, and executive MIS reporting.
+- Building with **Next.js, TypeScript, Django REST Framework, PostgreSQL, Redis/Celery, Docker, GitHub Actions, and Linux**.
+- Designing role-scoped access, audit-oriented workflows, operational dashboards, and AI-assisted monitoring capabilities.
+- Running controlled legacy-data migrations using verified backups, dry-run reports, fingerprint-gated applies, and post-deployment audits.
+
+### BSMCL Portal, CMS & ERP Platform
+
+- Developing a secure digital platform for Bihar State Mining Corporation covering public information, tenders, auctions, reports, CMS administration, and future ERP workflows.
+- Supporting security hardening, deployment, production documentation, and State Data Centre readiness.
 
 ---
 
@@ -36,6 +54,12 @@ A results-driven software engineer with extensive expertise in building scalable
 - **Server Management:** Linux System Administration, Bash Scripting
 - **Monitoring & Logging:** ELK Stack, CloudWatch, Prometheus
 
+### **AI-Assisted Engineering**
+- **Primary Tools:** Claude Code, Codex, and LLM-assisted development workflows
+- **Context Management:** `CLAUDE.md`, `PROJECT_CONTEXT.md`, durable handoff notes, and repository-specific instructions
+- **Parallel Delivery:** Scoped tasks in isolated Git worktrees with explicit permissions and production boundaries
+- **Quality Control:** Critical diff review, tests, dry runs, security checks, and human ownership of architecture and production changes
+
 ### **IoT & Embedded Systems**
 - **Microcontrollers:** Raspberry Pi, Arduino, ESP32
 - **Programming:** Python, C/C++
@@ -55,12 +79,12 @@ A results-driven software engineer with extensive expertise in building scalable
 
 ```
 ✅ Full-Stack Development        ✅ System Architecture Design
-✅ Cloud-Native Deployment       ✅ IoT Solution Development
+✅ AI-Assisted Engineering       ✅ Cloud-Native Deployment
 ✅ API Development & Integration ✅ Database Design & Optimization
-✅ CI/CD Pipeline Setup          ✅ Performance Engineering
+✅ ERP & Monitoring Platforms    ✅ Legacy Data Migration
 ✅ Security Best Practices       ✅ Agile/Scrum Methodology
 ✅ Technical Documentation       ✅ Code Review & Mentoring
-✅ Problem Solving               ✅ Cross-Platform Development
+✅ Edge & IoT Systems            ✅ Production Debugging
 ```
 
 ---
@@ -117,12 +141,12 @@ A results-driven software engineer with extensive expertise in building scalable
 
 ---
 
-## 🛠️ What I'm Currently Learning
+## 🛠️ What I'm Currently Building
 
-- **System Programming in Go** - Building high-performance, concurrent applications
-- **Ethical Hacking & Cybersecurity** - Enhancing security awareness and penetration testing skills
-- **Advanced Kubernetes Orchestration** - Complex deployments and service meshes
-- **Edge Computing** - Real-time data processing in IoT environments
+- **Government ERP & Monitoring:** BSEIDC tendering, infrastructure execution, finance, employee management, and MIS workflows
+- **Mining Digital Platform:** BSMCL public portal, secure CMS, tenders, auctions, and ERP foundations
+- **Connected Edge Systems:** Raspberry Pi cellular connectivity, systemd recovery tooling, remote diagnostics, and GNSS capability checks
+- **Embedded Hardware:** STM32/Quectel VoLTE gateway bring-up and Teensy-based real-time sensing/audio systems
 
 ---
 
@@ -154,7 +178,7 @@ A results-driven software engineer with extensive expertise in building scalable
 
 I'm always open to discussing new projects, innovative ideas, and opportunities to contribute to meaningful solutions. Feel free to reach out!
 
-**Email:** [shkhan922@gmail.com](mailto:your.email@example.com)  
+**Email:** [shkhan922@gmail.com](mailto:shkhan922@gmail.com)<br>
 **Location:** [New Delhi, India]
 
 ---
@@ -165,4 +189,4 @@ I'm always open to discussing new projects, innovative ideas, and opportunities 
 
 ---
 
-*⚡ Building the future, one line of code at a time*
+*⚡ Building reliable systems across cloud, data, AI-assisted engineering, and the edge.*
