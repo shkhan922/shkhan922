@@ -1,14 +1,21 @@
 # 👨‍💻 Shadab Khan
 
-### Full Stack & AI-Enabled ERP Engineer | Cloud, Data & Edge Systems
+### Senior Software Engineer — Machine Learning & AI | Python/Django | ERP | Embedded IoT
 
-Full Stack Engineer with 12+ years of experience building and operating production software across government ERP, infrastructure monitoring, healthcare, finance, property technology, and embedded systems. I work across Next.js/TypeScript frontends, Django/Python services, PostgreSQL data platforms, cloud infrastructure, and remotely managed edge hardware.
+Senior Software Engineer with 12+ years of production Python engineering and a core focus on **machine learning and AI**. I build models and the systems they run in: Django/Django REST and FastAPI services, PostgreSQL/Redis data layers, Odoo and custom ERP platforms, Docker CI/CD, and embedded/IoT hardware.
 
-I currently work with **Link Infra Solutions Pvt. Ltd.**, where I contribute to the **BSEIDC AI-enabled ERP and infrastructure monitoring ecosystem** and the **BSMCL public portal, CMS, and ERP platform**.
+I currently work with **Link Infra Solutions Pvt. Ltd.**, where I built an **ML model that predicts the construction stage of school and university sites for BSEIDC** and took it from development through deployment on BSEIDC's own servers. I also lead development of the **BSEIDC AI-enabled ERP and infrastructure monitoring ecosystem** and the **BSMCL public portal, CMS, and ERP platform**.
+
+Earlier ML work spans healthcare imaging, property-investment recommendation, accounting anomaly detection, and AI-calibrated motion control. I'm currently completing a **Machine Learning & Agentic AI certification from LandingAI**.
 
 ---
 
 ## 🔭 Current Work
+
+### Construction-Stage Prediction Model (BSEIDC)
+
+- Machine-learning model that predicts the construction stage of school and university sites under BSEIDC, supporting progress monitoring across its statewide construction portfolio.
+- Worked on model development and its deployment on BSEIDC's own servers, so inference runs inside the client's government infrastructure.
 
 ### BSEIDC AI-Enabled ERP & Infrastructure Monitoring
 
@@ -25,6 +32,11 @@ I currently work with **Link Infra Solutions Pvt. Ltd.**, where I contribute to 
 ---
 
 ## 🚀 Technical Expertise
+
+### **Machine Learning & AI**
+- **Languages & Libraries:** Python, PyTorch, NumPy/SciPy, pandas, scikit-learn
+- **Modelling:** Model development, training and evaluation; predictive models, anomaly detection, recommendation systems
+- **Deployment:** Packaging and serving models on client-owned, on-premise servers alongside Django services
 
 ### **Frontend Development**
 - **Core Technologies:** React.js, Next.js, TypeScript, JavaScript (ES6+)
@@ -54,8 +66,8 @@ I currently work with **Link Infra Solutions Pvt. Ltd.**, where I contribute to 
 - **Server Management:** Linux System Administration, Bash Scripting
 - **Monitoring & Logging:** ELK Stack, CloudWatch, Prometheus
 
-### **AI-Assisted Engineering**
-- **Primary Tools:** Claude Code, Codex, and LLM-assisted development workflows
+### **Agentic AI & Coding Agents**
+- **Primary Tools:** Claude Code, Codex, and agent-driven Python development workflows
 - **Context Management:** `CLAUDE.md`, `PROJECT_CONTEXT.md`, durable handoff notes, and repository-specific instructions
 - **Parallel Delivery:** Scoped tasks in isolated Git worktrees with explicit permissions and production boundaries
 - **Quality Control:** Critical diff review, tests, dry runs, security checks, and human ownership of architecture and production changes
@@ -75,9 +87,16 @@ I currently work with **Link Infra Solutions Pvt. Ltd.**, where I contribute to 
 
 ---
 
+## 📜 Certifications
+
+- **Machine Learning & Agentic AI** — LandingAI *(in progress)*
+
+---
+
 ## 🏆 Key Competencies
 
 ```
+✅ Machine Learning & Deployment ✅ Agentic AI Workflows
 ✅ Full-Stack Development        ✅ System Architecture Design
 ✅ AI-Assisted Engineering       ✅ Cloud-Native Deployment
 ✅ API Development & Integration ✅ Database Design & Optimization
@@ -102,6 +121,12 @@ I currently work with **Link Infra Solutions Pvt. Ltd.**, where I contribute to 
 ## 💼 Featured Technologies
 
 <div align="center">
+
+### **Machine Learning**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" height="40" />
 
 ### **Frontend Stack**
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
@@ -143,6 +168,7 @@ I currently work with **Link Infra Solutions Pvt. Ltd.**, where I contribute to 
 
 ## 🛠️ What I'm Currently Building
 
+- **Applied ML:** Construction-stage prediction for BSEIDC school and university sites, deployed on client servers
 - **Government ERP & Monitoring:** BSEIDC tendering, infrastructure execution, finance, employee management, and MIS workflows
 - **Mining Digital Platform:** BSMCL public portal, secure CMS, tenders, auctions, and ERP foundations
 - **Connected Edge Systems:** Raspberry Pi cellular connectivity, systemd recovery tooling, remote diagnostics, and GNSS capability checks
@@ -189,4 +215,4 @@ I'm always open to discussing new projects, innovative ideas, and opportunities 
 
 ---
 
-*⚡ Building reliable systems across cloud, data, AI-assisted engineering, and the edge.*
+*⚡ Building reliable systems across machine learning, data, agentic AI engineering, and the edge.*
