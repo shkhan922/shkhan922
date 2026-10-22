@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer — Machine Learning & AI | Python/Django | ERP | Embedded IoT
 
-Senior Software Engineer with 12+ years of production Python engineering and a core focus on **machine learning and AI**. I build models and the systems they run in: Django/Django REST and FastAPI services, PostgreSQL/Redis data layers, Odoo and custom ERP platforms, Docker CI/CD, and embedded/IoT hardware.
+Senior Software Engineer with 12+ years in production software (10+ in Python) and a core focus on **machine learning and AI**. I build models and the systems they run in: Django/Django REST and FastAPI services, PostgreSQL/Redis data layers, Odoo and custom ERP platforms, Docker CI/CD, and embedded/IoT hardware.
 
 I currently work with **Link Infra Solutions Pvt. Ltd.**, where I built an **ML model that predicts the construction stage of school and university sites for BSEIDC** and took it from development through deployment on BSEIDC's own servers. I also lead development of the **BSEIDC AI-enabled ERP and infrastructure monitoring ecosystem** and the **BSMCL public portal, CMS, and ERP platform**.
 
