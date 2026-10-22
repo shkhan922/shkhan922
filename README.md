@@ -6,7 +6,7 @@ Senior Software Engineer with 12+ years in production software (10+ in Python) a
 
 I currently work with **Link Infra Solutions Pvt. Ltd.**, where I built an **ML model that predicts the construction stage of school and university sites for BSEIDC** and took it from development through deployment on BSEIDC's own servers. I also lead development of the **BSEIDC AI-enabled ERP and infrastructure monitoring ecosystem** and the **BSMCL public portal, CMS, and ERP platform**.
 
-Earlier ML work spans healthcare imaging, property-investment recommendation, accounting anomaly detection, and AI-calibrated motion control. I'm currently completing a **Machine Learning & Agentic AI certification from LandingAI**.
+Earlier ML work spans healthcare imaging, property-investment recommendation, accounting anomaly detection, and AI-calibrated motion control. I'm currently completing a **Machine Learning & Agentic AI certification from DeepLearning.AI**.
 
 ---
 
@@ -89,7 +89,7 @@ Earlier ML work spans healthcare imaging, property-investment recommendation, ac
 
 ## 📜 Certifications
 
-- **Machine Learning & Agentic AI** — LandingAI *(in progress)*
+- **Machine Learning & Agentic AI** — DeepLearning.AI *(in progress)*
 
 ---
 
